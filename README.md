@@ -1,5 +1,8 @@
 # DATACOM-Cybersecurity-Job-Simulation
-I engaged in the open-access DATACOM Virtual Experience Program with Forage.
+I engaged in the open-access DATACOM Virtual Experience Program with Forage. In the simulation I:
+- Completed a simulation focused on how Datacom's cybersecurity team helps protect it's clients.
+- Investigated a cyberattack and produced a comprehensive report documenting findings and outlining key recommendations to improve a client's cybersecurity posture.
+- Conducted a comprehensive risk assessment
 
 # Task 1: APT Breach: Analysing the Impact on Information Security
 ## Background
@@ -64,4 +67,6 @@ To defend against cyberattacks conducted by APT34, the client should consider im
 - User Training: Conduct regular training for employees to recognize and avoid spear-phishing attempts and social engineering tactics.
 - Network Segmentation: Implement network segmentation to limit lateral movement in the event of a successful breach.
 - Regular Patching: Ensure timely patching of software and systems to address vulnerabilities that APT34 may exploit.
-Incident Response Plan: Develop and regularly test an incident response plan to enable a swift and coordinated response to any detected cyber intrusion.
+- Incident Response Plan: Develop and regularly test an incident response plan to enable a swift and coordinated response to any detected cyber intrusion.
+
+# Task 2: Cybersecurity Risk Assessment
