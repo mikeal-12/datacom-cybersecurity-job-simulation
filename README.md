@@ -35,3 +35,33 @@ Are you ready to take on this challenge and become a cybersecurity hero?
 
 Let's get started!
 
+# APT34 (OILRIG) Report
+
+## History
+APT34, also known as OILRIG, is a cyber espionage group with a history dating back to at least 2014. The group has been involved in targeted cyber operations, primarily focused on the Middle East.
+
+## Nation/State Association
+Attributed to the Iranian government, APT34 is associated with state-sponsored cyber activities aligned with Iranian state interests.
+
+## Targeted Industries
+APT34 primarily targets organizations in the Middle East, with a focus on the following:
+
+- Government agencies,
+- Energy sectors,
+- Telecommunications,
+- Critical infrastructure.
+
+## Motives
+The primary motive of APT34 is cyber espionage, with the aim of gathering intelligence and sensitive information. Their targets often include political figures, military organizations, and entities with geopolitical significance.
+
+## Tactics, Techniques, and Procedures (TTPs)
+APT34 employs sophisticated TTPs, including the use of custom malware, spear-phishing emails, and social engineering tactics. The group utilizes these techniques to gain unauthorized access to target systems and maintain a persistent presence for intelligence gathering.
+
+## Security Measures for Defense
+To defend against cyberattacks conducted by APT34, the client should consider implementing the following security measures: 
+
+- Advanced Threat Detection: Deploy advanced threat detection systems to identify and respond to malicious activities promptly.
+- User Training: Conduct regular training for employees to recognize and avoid spear-phishing attempts and social engineering tactics.
+- Network Segmentation: Implement network segmentation to limit lateral movement in the event of a successful breach.
+- Regular Patching: Ensure timely patching of software and systems to address vulnerabilities that APT34 may exploit.
+Incident Response Plan: Develop and regularly test an incident response plan to enable a swift and coordinated response to any detected cyber intrusion.
