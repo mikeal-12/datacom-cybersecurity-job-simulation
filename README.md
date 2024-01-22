@@ -95,3 +95,16 @@ To complete this task, you will need to:
 - Assess risk rating for each risk scenario with existing measures – Calculate the current risk rating for each scenario taking existing measures in place to reduce the risk into consideration (with fence and padlock in place).
 - Assess risk levels for each risk scenario with additional measures – Identify any additional measures that could be put in place to further reduce the risk. Calculate the target risk rating for each scenario with these additional measures in place.
 - Create a risk assessment report for the client that summarises the risk assessment findings, the risk mitigation strategy and any recommended measures for implementation.
+
+## Risk Matrix
+A tool used to assess and evaluate risks based on the likelihood and consequence of a risk event occurring. The image below depicts a risk matrix used to assess the potential risks the client might face and their respective likelihoods:
+
+![Risk Assessment xlsx - Excel (Product Activation Failed) 22_01_2024 20_11_58](https://github.com/mikeal-12/datacom-cybersecurity-job-simulation/assets/72464155/40a7bb13-16ac-4d7e-a836-dc27426fc3cc)
+
+## Risk Assessment Report
+A document that summarises the risk assessment findings, the risk mitigation strategy, and any recommended measures for implementation.
+
+![Risk Assessment xlsx - Excel (Product Activation Failed) 22_01_2024 20_36_43](https://github.com/mikeal-12/datacom-cybersecurity-job-simulation/assets/72464155/6125b95d-4fcd-415d-bd50-f62cc416ea19)
+
+
+
